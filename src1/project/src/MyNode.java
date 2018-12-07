@@ -7,6 +7,9 @@ package tree;
  * 
  * Massa fint här...... 
  * och lite här... najs.
+ * This is a node in a binary search tree. 
+ The node holds an integer value.
+ *
  * @author Torbjorn Ekman
  * @see MyTree
  */
