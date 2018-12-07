@@ -5,7 +5,13 @@ package tree;
 // develop!
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ * 
+ * Massa fint här...... ssss
+ * och lite här... najs.
+ * This is a node in a binary search tree. 
+ * hej
+ * hej hej
+ hej hej
  * @author Torbjorn Ekman
  * @see MyTree
  */
