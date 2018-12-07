@@ -5,7 +5,7 @@ package tree;
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  * 
- * Massa fint här...... 
+ * Massa fint här...... ssss
  * och lite här... najs.
  * This is a node in a binary search tree. 
  *
