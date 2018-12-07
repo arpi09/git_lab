@@ -4,7 +4,9 @@ package tree;
 // Added things
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ * 
+ * Massa fint här...... 
+ * och lite här... najs.
  * @author Torbjorn Ekman
  * @see MyTree
  */
