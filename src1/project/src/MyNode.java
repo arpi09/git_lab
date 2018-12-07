@@ -3,10 +3,23 @@ package tree;
 // Mathias branch
 // Added things
 /**
+<<<<<<< HEAD
  * This is a node in a binary search tree. The node holds an integer value.
  * 
  * Massa fint här...... 
  * och lite här... najs.
+=======
+ * This is a node in a binary search tree. 
+
+
+
+
+
+
+
+ The node holds an integer value.
+ *
+>>>>>>> 2c0a7c7ee4e8d52f512b12ef924faea7ceda18e0
  * @author Torbjorn Ekman
  * @see MyTree
  */
