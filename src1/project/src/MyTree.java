@@ -2,6 +2,12 @@ package tree;
 
 import tree.MyNode;
 
+/*
+Arvids kod!
+:))))))))))))
+*/
+
+
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
